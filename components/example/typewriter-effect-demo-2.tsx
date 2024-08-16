@@ -16,7 +16,10 @@ export default function TypewriterEffectDemo() {
       text: "with",
     },
     {
-      text: "Harsh Gulrajani!",
+      text: "Harsh",
+      className: "text-blue-500 dark:text-blue-500",
+    }, {
+      text: "Gulrajani!",
       className: "text-blue-500 dark:text-blue-500",
     },
   ];
