@@ -4,6 +4,7 @@ import AppleCardsCarouselDemo from "@/components/example/apple-cards-carousel-de
 import GlobeDemo from "@/components/example/globe-demo";
 import HeroParallaxDemo from "@/components/example/hero-parallax-demo";
 import TypewriterEffectDemo from "@/components/example/typewriter-effect-demo-2";
+import VortexDemo from "@/components/example/vortex-demo-2";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <FeaturesSectionDemo />
       <AppleCardsCarouselDemo />
       <HeroParallaxDemo />
+      <VortexDemo />
     </>
   );
 }
