@@ -10,13 +10,13 @@ export default function TypewriterEffectDemo() {
       text: "awesome",
     },
     {
-      text: "apps",
+      text: "solutions",
     },
     {
       text: "with",
     },
     {
-      text: "Aceternity.",
+      text: "Harsh Gulrajani!",
       className: "text-blue-500 dark:text-blue-500",
     },
   ];
