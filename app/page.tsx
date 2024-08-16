@@ -6,7 +6,7 @@ import NavbarDemo from "@/components/example/navbar-menu-demo";
 export default function Home() {
   return (
     <>
-      <NavbarDemo />
+      {/* <NavbarDemo /> */}
       <GlobeDemo />
       <FeaturesSectionDemo />
       <AppleCardsCarouselDemo />
