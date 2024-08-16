@@ -18,31 +18,32 @@ export default function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "Harsh's implementation of our Zero Trust architecture was flawless. We've seen a 70% reduction in security incidents and our team's confidence in our infrastructure has never been higher. His expertise in modern cybersecurity practices is truly unparalleled.",
+    name: "Priya Sharma",
+    title: "CTO, TechNova Solutions",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
+      "When we suffered a ransomware attack, Harsh's incident response team was our lifeline. They contained the threat within hours and helped us recover with minimal data loss. Their 24/7 support and clear communication throughout the crisis were invaluable.",
+    name: "Rajesh Patel",
+    title: "IT Director, GlobalHealth India",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
-  },
-  {
-    quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+    quote: "Integrating security into our DevOps pipeline seemed daunting until we brought Harsh on board. His DevSecOps strategies have not only tightened our security but also improved our deployment efficiency by 40%. A game-changer for our development process.",
+    name: "Aisha Khan",
+    title: "Lead Developer, FinTech Innovations",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "Harsh's cloud security audit revealed vulnerabilities we had no idea existed. His remediation plan was comprehensive, and the follow-up support ensured we implemented every recommendation effectively. Our multi-cloud environment has never been more secure.",
+    name: "Vikram Mehta",
+    title: "Cloud Architect, DataSphere Corp",
+  },
+  {
+    quote:
+      "As a rapidly growing startup, we needed a security partner who could scale with us. Harsh and his team provided that and more. Their proactive threat intelligence has prevented numerous potential breaches, and their training programs have instilled a culture of security awareness across our organization.",
+    name: "Neha Gupta",
+    title: "Founder & CEO, SecureStartup",
   },
 ];
+
