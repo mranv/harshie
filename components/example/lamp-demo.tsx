@@ -1,4 +1,5 @@
 "use client";
+
 import React from "react";
 import { motion } from "framer-motion";
 import { LampContainer } from "../ui/lamp";
@@ -16,7 +17,11 @@ export default function LampDemo() {
         }}
         className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
-        Build lamps <br /> the right way
+        securing the digital world
+        <br /> 
+        with cutting edge cybersecurity
+        <br /> 
+        - Harsh Gulrajani
       </motion.h1>
     </LampContainer>
   );
