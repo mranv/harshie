@@ -5,7 +5,7 @@ const {
   default: flattenColorPalette,
 } = require("tailwindcss/lib/util/flattenColorPalette");
 
-const config = {
+const config: Config = {
   darkMode: ["class"],
   content: [
     './pages/**/*.{ts,tsx}',
@@ -96,7 +96,7 @@ const config = {
     require("tailwindcss-animate"),
     addVariablesForColors
   ],
-} satisfies Config
+}
 
 function addVariablesForColors({ addBase, theme }: any) {
   let allColors = flattenColorPalette(theme("colors"));
